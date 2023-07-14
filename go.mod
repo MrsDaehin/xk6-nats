@@ -1,4 +1,4 @@
-module github.com/fernandoescolar/xk6-nats
+module github.com/MrsDaehin/xk6-nats
 
 go 1.17
 
